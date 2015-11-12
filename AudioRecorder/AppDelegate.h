@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  AudioRecorder
 //
-//  Created by Leon on 2015/11/12.
+//  Created on 2015/11/12.
 //
 //
 
