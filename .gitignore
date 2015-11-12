@@ -1,0 +1,4 @@
+AudioRecorder.xcodeproj/project.xcworkspace/*
+!AudioRecorder.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+AudioRecorder.xcodeproj/xcuserdata
+.DS_Store
